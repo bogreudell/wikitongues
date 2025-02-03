@@ -258,32 +258,6 @@
             ]
         },
         {
-            "key": "field_64d159b3dee63",
-            "label": "Fellow Headshot",
-            "name": "fellow_headshot",
-            "aria-label": "",
-            "type": "image",
-            "instructions": "",
-            "required": 0,
-            "conditional_logic": 0,
-            "wrapper": {
-                "width": "",
-                "class": "",
-                "id": ""
-            },
-            "return_format": "id",
-            "library": "all",
-            "min_width": "",
-            "min_height": "",
-            "min_size": "",
-            "max_width": "",
-            "max_height": "",
-            "max_size": "",
-            "mime_types": "",
-            "allow_in_bindings": 1,
-            "preview_size": "medium"
-        },
-        {
             "key": "field_62546d83dc64a",
             "label": "Fellow Bio",
             "name": "fellow_bio",
@@ -606,5 +580,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1738503801
+    "modified": 1738626283
 }
