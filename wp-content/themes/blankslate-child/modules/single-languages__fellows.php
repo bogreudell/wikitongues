@@ -30,7 +30,7 @@ if ( $fellows ):
 			$params = [
 				'title' => 'Fellows',
 				'post_type' => 'fellows',
-				'custom_class' => '',
+				'custom_class' => 'horizontal',
 				'columns' => 3,
 				'posts_per_page' => 6,
 				'orderby' => 'date',

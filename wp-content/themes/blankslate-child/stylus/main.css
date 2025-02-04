@@ -3994,6 +3994,8 @@ text
 .custom-gallery p a {
   text-decoration: none;
   color: #3814a5;
+}
+.custom-gallery p a {
   font-style: italic;
 }
 .custom-gallery .gallery-container {
